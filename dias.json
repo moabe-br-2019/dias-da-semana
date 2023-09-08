@@ -1,0 +1,33 @@
+{
+    "diasDaSemana": [
+      {
+        "dia": "Segunda-feira",
+        "abreviacao": "Seg"
+      },
+      {
+        "dia": "Terça-feira",
+        "abreviacao": "Ter"
+      },
+      {
+        "dia": "Quarta-feira",
+        "abreviacao": "Qua"
+      },
+      {
+        "dia": "Quinta-feira",
+        "abreviacao": "Qui"
+      },
+      {
+        "dia": "Sexta-feira",
+        "abreviacao": "Sex"
+      },
+      {
+        "dia": "Sábado",
+        "abreviacao": "Sáb"
+      },
+      {
+        "dia": "Domingo",
+        "abreviacao": "Dom"
+      }
+    ]
+  }
+  
